@@ -5,7 +5,7 @@ import CItemPrice from '../item'
 
 export default observer((input: CItemTierInput) => {
     let items = input.tier.items.map(
-        (i: ItemPrice, index: number) => <CItemPrice key={index} item={i} />
+        (i: ItemPrice, index: number) => <CItemPrice key={"price"+index} item={i} />
     )
     return <div>
         <div>Tier: {input.tier.tier}</div>

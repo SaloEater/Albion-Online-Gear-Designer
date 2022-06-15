@@ -13,42 +13,56 @@ class MasteryStore {
         makeAutoObservable(this)
         this.test = new ItemTypeMastery('test', this)
         this.playerMastery = new PlayerMastery(this, mainStore)
-        this.load()
+        this.loadFromStorage()
     }
 
     save() {
-        let itemTypeMasteries = this.playerMastery.masteries.map(
+        localStorage.setItem('masteryStore.itemTypeMasteries', this.createItemTypeMasteriesSnapshot())
+        localStorage.setItem('masteryStore.itemMasteries', this.createItemMasteriesSnapshot())
+        localStorage.setItem('masteryStore.otherMasteries', this.createOtherMasteriesSnapshot())
+    }
+
+    createItemTypeMasteriesSnapshot(): string {
+        return JSON.stringify(this.playerMastery.masteries.map(
             (i: ItemTypeMastery) => [i.slot, i.typeMastery]
-        )
+        ))
+    }
 
-        let itemMasteries = this.playerMastery.masteries.map(
+    createItemMasteriesSnapshot(): string {
+        return JSON.stringify(this.playerMastery.masteries.map(
             (i: ItemTypeMastery) => [i.slot, i.itemMastery.spec, i.itemMastery.rate]
-        )
+        ))
+    }
 
-        let otherMasteries = this.playerMastery.masteries.map(
+    createOtherMasteriesSnapshot(): string {
+        return JSON.stringify(this.playerMastery.masteries.map(
             (i: ItemTypeMastery) => {
                 let data = i.otherMasteries.map((j: ItemMastery) => [j.spec, j.rate])
                 return [i.slot, data]
             }
-        )
-
-        localStorage.setItem('masteryStore.itemTypeMasteries', JSON.stringify(itemTypeMasteries))
-        localStorage.setItem('masteryStore.itemMasteries', JSON.stringify(itemMasteries))
-        localStorage.setItem('masteryStore.otherMasteries', JSON.stringify(otherMasteries))
+        ))
     }
 
-    load() {
-        let itemTypeMasteries: [] = JSON.parse(localStorage.getItem('masteryStore.itemTypeMasteries') ?? '[]')
-        let itemMasteries: [] = JSON.parse(localStorage.getItem('masteryStore.itemMasteries') ?? '[]')
-        let otherMasteries: [] = JSON.parse(localStorage.getItem('masteryStore.otherMasteries') ?? '[]')
+    loadFromStorage() {
+        this.loadItemTypeMasteries(localStorage.getItem('masteryStore.itemTypeMasteries'))
+        this.loadItemMasteries(localStorage.getItem('masteryStore.itemMasteries'))
+        this.loadOtherMasteries(localStorage.getItem('masteryStore.otherMasteries'))
+    }
 
-        itemTypeMasteries.forEach((i: any) => {
+    loadItemTypeMasteries(data: string|null) {
+        let parsedData: [] = JSON.parse(data ?? '[]')
+
+        parsedData.forEach((i: any) => {
             let name = i[0]
             let typeMastery = i[1];
             this.playerMastery.masteries.filter((i: ItemTypeMastery) => i.slot == name).forEach((i: ItemTypeMastery) => i.typeMastery = typeMastery)
         })
+    }
 
-        itemMasteries.forEach((i: any) => {
+    loadItemMasteries(data: string|null) {
+        let parsedData: [] = JSON.parse(data ?? '[]')
+
+        parsedData.forEach((i: any) => {
             let name = i[0]
             let spec = i[1];
             let rate = i[2];
@@ -57,8 +71,12 @@ class MasteryStore {
                 i.itemMastery.rate = rate
             })
         })
+    }
 
-        otherMasteries.forEach((i: any) => {
+    loadOtherMasteries(data: string|null) {
+        let parsedData: [] = JSON.parse(data ?? '[]')
+
+        parsedData.forEach((i: any) => {
             let name = i[0]
             let masteries = i[1];
             this.playerMastery.masteries.filter((i: ItemTypeMastery) => i.slot == name).forEach((i: ItemTypeMastery) => {
@@ -80,6 +98,20 @@ class MasteryStore {
 
     getIPs(): any[] {
         return this.playerMastery.getActualMasteries().map((i) => {return {slot: i.slot, ip: i.getIP()}})
+    }
+
+    createSnapshot() {
+        return JSON.stringify({
+            itemTypeMasteries: this.createItemTypeMasteriesSnapshot(),
+            itemMasteries: this.createItemMasteriesSnapshot(),
+            otherMasteries: this.createOtherMasteriesSnapshot()
+        })
+    }
+
+    loadFromObject(data: any) {
+        this.loadItemTypeMasteries(data.itemTypeMasteries)
+        this.loadItemMasteries(data.itemMasteries)
+        this.loadOtherMasteries(data.otherMasteries)
     }
 }
 

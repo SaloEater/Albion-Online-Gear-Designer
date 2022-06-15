@@ -26,21 +26,29 @@ class GearStore {
         this.itemSet.push(new GearItem('boots', this))
         this.itemSet.push(new GearItem('main hand', this))
         this.itemSet.push(new GearItem('offhand', this))
-        this.load()
         this.mainStore = mainStore
+        this.load()
     }
 
     save() {
-        let itemSet = this.itemSet.map(
-            (i: GearItem) => [i.slot, i.tier, i.enchantment, i.baseType, i.manuallyEdited]
-        )
+        localStorage.setItem('gearStore.itemSet', this.createItemSetSnapshot())
 
-        localStorage.setItem('gearStore.itemSet', JSON.stringify(itemSet))
         this.saveIP()
     }
 
+    createItemSetSnapshot(): string {
+        return JSON.stringify(this.itemSet.map(
+            (i: GearItem) => [i.slot, i.tier, i.enchantment, i.baseType, i.manuallyEdited]
+        ))
+    }
+
     load() {
-        let itemSet: any[] = JSON.parse(localStorage.getItem('gearStore.itemSet') ?? '[]')
+        this.loadItemSet(localStorage.getItem('gearStore.itemSet'))
+        this.loadNecessaryIP(localStorage.getItem('gearStore.necessaryIP'))
+    }
+    
+    loadItemSet(data: string|null) {
+        let itemSet: any[] = JSON.parse(data ?? '[]')
         itemSet.forEach(
             (i) => {
                 let slot = i[0]
@@ -49,15 +57,24 @@ class GearStore {
                 let baseType = i[3]
                 let manuallyEdited = i[4]
                 this.itemSet.filter((j: GearItem) => j.slot == slot).forEach((k: GearItem) => {
-                    k.tier = tier
-                    k.enchantment = enchantment
+                    k.manuallyEdited = manuallyEdited
+                    if (manuallyEdited) {
+                        k.tier = tier
+                        k.enchantment = enchantment
+                    } else {
+                        k.tier = 0
+                        k.enchantment = 0
+                    }
                     k.baseType = baseType
                     this.isTwoHanded = this.isTwoHanded || this.isTwoHandedItem(baseType)
-                    k.manuallyEdited = manuallyEdited
                 })
             }
         )
-        this.necessaryIP = parseInt(localStorage.getItem('gearStore.necessaryIP') ?? '0')
+        this.mainStore.pricesStore.setNonFetched()
+    }
+
+    loadNecessaryIP(data: string | null) {
+        this.necessaryIP = parseInt(data ?? '0')
     }
 
     clearCache() {  
@@ -91,7 +108,28 @@ class GearStore {
     }
 
     saveIP() {
-        localStorage.setItem('gearStore.necessaryIP', JSON.stringify(this.necessaryIP))
+        localStorage.setItem('gearStore.necessaryIP', this.createNecesssaryIPSnapshot())
+    }
+
+    createNecesssaryIPSnapshot(): string {
+        return JSON.stringify(this.necessaryIP)
+    }
+
+    createSnapshot() {
+        return JSON.stringify({
+            itemSet: this.createItemSetSnapshot(),
+            necessaryIP: this.createNecesssaryIPSnapshot()
+        })
+    }
+
+    loadFromObject(data: any) {
+        data = JSON.parse(data)
+        this.loadItemSet(data.itemSet)
+        this.loadNecessaryIP(data.necessaryIP)
+    }
+
+    calculateOwnIPs() {
+        this.itemSet.forEach((i) => i.calculateOwnIP())
     }
 }
 

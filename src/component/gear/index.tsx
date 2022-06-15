@@ -21,11 +21,14 @@ class GearSetComponent extends React.Component {
 
         return (
             <div>
-                <input
-                    type="checkbox"
-                    checked={this.gearStore.isTwoHanded}
-                    onChange={(e: ChangeEvent<HTMLInputElement>) => this.gearStore.setTwoHanded(e.target.checked)}
-                />
+                <div>
+                    Two handed: 
+                    <input
+                        type="checkbox"
+                        checked={this.gearStore.isTwoHanded}
+                        readOnly={true}
+                    />
+                </div>
                 {items}
                 
                 <input
@@ -44,7 +47,8 @@ class GearSetComponent extends React.Component {
 
                 <button
                     onClick={() => this.gearStore.mainStore.pricesStore.calculate(this.gearStore.necessaryIP)}
-                >Calculate</button>
+                    disabled={!this.gearStore.mainStore.pricesStore.isFetched}
+                >{this.gearStore.mainStore.pricesStore.isFetched ? "Calculate" : "Fetch firsts"}</button>
             </div>
         );
     }

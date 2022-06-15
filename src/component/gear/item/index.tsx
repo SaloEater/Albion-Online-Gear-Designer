@@ -53,9 +53,18 @@ export default observer((input: CGearItemInput) => {
                 onChange={(e: ChangeEvent<HTMLInputElement>) => item.setEnchantment(parseInt(e.target.value))}
             />
             <div>
-                <button
+                Price: {item.getPrice()}
+            </div>
+            <div>
+                Hardcoded:
+                <input
+                    type="checkbox"
+                    checked={item.manuallyEdited}
+                    readOnly={true}
+                />
+                {/* <button
                     onClick={() => item.calculateOwnIP()}
-                >IP</button>
+                >IP</button> */}
                 IP: {item.totalIP}
             </div>
         </label>

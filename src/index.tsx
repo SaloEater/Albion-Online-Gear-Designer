@@ -18,6 +18,7 @@ root.render(
       MasteryStore={mainStore.masteryStore}
       GearStore={mainStore.gearStore}
       PricesStore={mainStore.pricesStore}
+      LoadoutStore={mainStore.loadoutStore}
     >
       <App />
     </Provider>

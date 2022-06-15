@@ -48,6 +48,7 @@ class GearItem {
             this.manuallyEdited = true
         } else {
             this.manuallyEdited = false
+            this.setEnchantment(0)
         }
         this.tier = spec
         this.store.save()
@@ -59,6 +60,7 @@ class GearItem {
             this.store.updateTwoHandedStatus(baseType)
         }
         this.store.save()
+        this.store.mainStore.pricesStore.setNonFetched()
     }
 
     isManuallyEdited(): boolean {
@@ -74,6 +76,10 @@ class GearItem {
         let masteryIp = mastery?.getIP() ?? 0
         masteryIp *= this.ipHelper.getTierMasteryModifier(this.tier)
         this.totalIP = masteryIp + this.ipHelper.getIP(this.tier, this.enchantment) + this.itemHelper.getAdditionalIP(this.baseType)
+    }
+
+    getPrice(): number {
+        return this.store.mainStore.pricesStore.prices.getPricesFor(this.slot, this.tier, this.enchantment)
     }
 }
 

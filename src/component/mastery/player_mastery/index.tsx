@@ -33,7 +33,7 @@ class PlayerMasteryComponent extends React.Component {
             <div>
                 <button
                     onClick={() => this.masteryStore.clearCache()}
-                >Clear</button>
+                >Clear all saved data</button>
                 
                 <Tabs>
                     <TabList>

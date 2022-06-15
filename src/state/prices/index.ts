@@ -19,6 +19,7 @@ class PricesStore {
     actualIP: number = -1
     itemHelper: ItemHelper = new ItemHelper()
     ipHelper: IPHelper = new IPHelper()
+    isFetched: boolean = false
 
     constructor(mainStore: MainStore) {
         makeAutoObservable(this)
@@ -28,37 +29,18 @@ class PricesStore {
 
     fetchPrices(): void {
         this.prices.fetchPrices()
+        this.isFetched = true
+    }
+
+    setNonFetched() {
+        this.isFetched = false
     }
 
     calculate(necessaryIP: number): void {
         this.actualCost = 0
         this.actualIP = 0
-        let best = {
-            helmet: {
-                slot: "helmet",
-                item: null
-            },
-            cape: {
-                slot: "cape",
-                item: null
-            },
-            body_armour: {
-                slot: "body armour",
-                item: null
-            },
-            boots: {
-                slot: "boots",
-                item: null
-            },
-            mainhand: {
-                slot: "main hand",
-                item: null
-            },
-            offhand: {
-                slot: "offhand",
-                item: null
-            },
-        }
+        this.foundSolution = false
+        
         let prices = this.prices.getActualPrices()
         let set: CostHolder[] = []
         prices.forEach(() => set.push(new CostHolder()))
@@ -84,6 +66,9 @@ class PricesStore {
 
         this.recursion(0, prices, 0, baseIP, set, masteryIP, necessaryIP, prices.length, manuallyEditedSlots)
         console.log('Ends')
+        if (!this.foundSolution) {
+            alert("Too high IP")
+        }
     }
 
     recursion(
@@ -109,7 +94,7 @@ class PricesStore {
 
             let tier = items.tiers.find((i) => i.tier == manual.tier);
             let item = tier?.items.find((i) => i.tier == manual.tier && i.enchantment == manual.enchantment)
-            let itemPrice = item?.hasPrice() ? item?.price : 0 ?? 0
+            let itemPrice = 0//item?.hasPrice() ? item?.price : 0 ?? 0
             let itemIp = item?.ip ?? 0
 
             let newCost = cost + itemPrice
@@ -126,6 +111,8 @@ class PricesStore {
                             gearStore.itemSet[itemIndex].tier = i.tier
                             gearStore.itemSet[itemIndex].enchantment = i.enchantment
                         })
+                        gearStore.calculateOwnIPs()
+                        this.foundSolution = true
                         
                         this.actualCost = newCost
                         this.actualIP = actualIP
@@ -158,6 +145,8 @@ class PricesStore {
                                     gearStore.itemSet[itemIndex].tier = i.tier
                                     gearStore.itemSet[itemIndex].enchantment = i.enchantment
                                 })
+                                gearStore.calculateOwnIPs()
+                                this.foundSolution = true
                                 
                                 this.actualCost = newCost
                                 this.actualIP = actualIP
@@ -172,6 +161,7 @@ class PricesStore {
     }
 
     counter: number = 0
+    foundSolution: boolean = false
 }
 
 export default PricesStore;

@@ -20,13 +20,13 @@ class PricesComponent extends React.Component {
             (i: ItemTypePrices, index: number) => <Tab key={index}>{i.slot}</Tab>
         )
 
-        let tabPanels = this.pricesStore.prices.prices.map(
+        let tabPanels = this.pricesStore.prices.getActualPrices().map(
             (i: ItemTypePrices, index: number) => {
                 let content = i.tiers.map(
-                    (j: ItemTierPrices, jI: number) => <CItemTierPrices key={jI} tier={j}/>
+                    (j: ItemTierPrices, jI: number) => <CItemTierPrices key={"prices" + jI} tier={j}/>
                 )
 
-                return <TabPanel key={index}>
+                return <TabPanel key={"panel" + index}>
                     Slot: {i.slot}
                     {content}
                 </TabPanel>

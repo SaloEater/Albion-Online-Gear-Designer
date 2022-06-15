@@ -35,5 +35,14 @@ export class Prices {
 
     setCity(city: string) {
         this.city = city
+        this.store.setNonFetched()
+    }
+
+    getPricesFor(slot: string, tier: number, enchantment: number): number {
+        let tiers = this.prices.find((i) => i.slot == slot)
+        let enchantments = tiers?.tiers.find((i) => i.tier == tier)
+        let item = enchantments?.items.find((i) => i.enchantment == enchantment)
+
+        return item?.price ?? 0
     }
 }
