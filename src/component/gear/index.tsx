@@ -38,11 +38,14 @@ class GearSetComponent extends React.Component {
                             {items}
                             {twoHanded}
                             
-                            <input
-                                type="number"
-                                value={this.gearStore.necessaryIP}
-                                onChange={(e: ChangeEvent<HTMLInputElement>) => this.gearStore.setNecessaryIP(e.target.value)}
-                            />
+                            <div>
+                                {t('gear.required_ip')}:
+                                <input
+                                    type="number"
+                                    value={this.gearStore.necessaryIP}
+                                    onChange={(e: ChangeEvent<HTMLInputElement>) => this.gearStore.setNecessaryIP(e.target.value)}
+                                />
+                            </div>
             
                             <div>
                                 {t('gear.price')}: {this.gearStore.mainStore.pricesStore.actualCost}

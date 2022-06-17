@@ -22,7 +22,8 @@
         "ip_stat": "IP",
         "price_stat": "Price",
         "hardcoded_ip": "IP locked",
-        "select_item": "Select item"
+        "select_item": "Select item",
+        "required_ip": "Required IP"
     },
     "prices": {
         "select_city": "Select city",

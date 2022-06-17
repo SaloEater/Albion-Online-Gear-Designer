@@ -22,7 +22,8 @@
         "ip_stat": "IP",
         "price_stat": "Цена",
         "hardcoded_ip": "IP заморожено",
-        "select_item": "Выберите предмет"
+        "select_item": "Выберите предмет",
+        "required_ip": "Требуемый IP"
     },
     "prices": {
         "select_city": "Выберите город",
