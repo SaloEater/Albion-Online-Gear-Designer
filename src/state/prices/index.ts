@@ -57,7 +57,7 @@ class PricesStore {
             let baseType = gearStore.getBaseTypeForSlot(i.slot)
             let ip = this.itemHelper.getAdditionalIP(baseType)
             baseIP += ip
-            console.log([baseType, ip])
+            //console.log([baseType, ip])
         })
 
         let manuallyEditedSlots = prices.map((i) => {
@@ -70,7 +70,7 @@ class PricesStore {
 
 
         this.recursion(0, prices, 0, baseIP, set, masteryIP, necessaryIP, prices.length, manuallyEditedSlots)
-        console.log('Ends')
+        //console.log('Ends')
         if (!this.foundSolution) {
             alert("Too high IP")
         }
@@ -110,7 +110,7 @@ class PricesStore {
                 //console.log([this.counter++, actualIP])
                 if (actualIP >= necessaryIP) {
                     if (this.actualCost == 0 || this.actualCost > newCost) {
-                        console.log([actualIP, newCost, set.map((i) => [i.pricesIndex, i.tier, i.enchantment])])
+                        //console.log([actualIP, newCost, set.map((i) => [i.pricesIndex, i.tier, i.enchantment])])
                         let gearStore = this.mainStore.gearStore
                         set.forEach((i, itemIndex) => {
                             gearStore.itemSet[itemIndex].tier = i.tier
@@ -144,7 +144,7 @@ class PricesStore {
                         //console.log([this.counter++, actualIP])
                         if (actualIP >= necessaryIP) {
                             if (this.actualCost == 0 || this.actualCost > newCost) {
-                                console.log([actualIP, newCost, set.map((i) => [i.pricesIndex, i.tier, i.enchantment])])
+                                //console.log([actualIP, newCost, set.map((i) => [i.pricesIndex, i.tier, i.enchantment])])
                                 let gearStore = this.mainStore.gearStore
                                 set.forEach((i, itemIndex) => {
                                     gearStore.itemSet[itemIndex].tier = i.tier

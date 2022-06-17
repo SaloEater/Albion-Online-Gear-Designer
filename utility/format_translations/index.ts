@@ -17,6 +17,6 @@ export default class FormatTranslations {
                 })
             }
         })
-        console.log(JSON.stringify(result))
+        //console.log(JSON.stringify(result))
     }
 }

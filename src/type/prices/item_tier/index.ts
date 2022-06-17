@@ -41,14 +41,14 @@ export class ItemTierPrices {
         
         requestString += items.join(',')
         requestString += '.json?locations=' + location
-        console.log('Fetching ' + requestString)
+        //console.log('Fetching ' + requestString)
         fetch(requestString)
             .then(res => res.json())
             .then((res: MarketItemPrice[]) => {
                 let sorted = res
                     .filter((i: MarketItemPrice) => i.sell_price_min != 0)
                     .sort((a, b) => a.sell_price_min_date > b.sell_price_min_date ? 1 : (b.sell_price_min_date > a.sell_price_min_date ? -1 : 0))
-                console.log(sorted)
+                //console.log(sorted)
                 this.items.forEach((i: ItemPrice) => {
                     let itemId = 'T' + this.tier + '_' + selectedItem
                     if (i.enchantment != 0) {
@@ -59,7 +59,7 @@ export class ItemTierPrices {
                         let sameDate = sorted.filter((i: MarketItemPrice) => i.sell_price_min_date == item?.sell_price_min_date && i.item_id == item?.item_id)
                         sameDate = sameDate.sort((i: MarketItemPrice) => i.quality)
                         item = sameDate[0]
-                        console.log('Found price for ' + itemId)
+                        //console.log('Found price for ' + itemId)
                         i.setPrice(item.sell_price_min)
                     }
                 })                
