@@ -12,7 +12,7 @@ export default observer((input: {loadoutStore: LoadoutStore, t: any}) => {
         nameChanger = <input
             name={"loadout_name"}
             type="string"
-            value={input.loadoutStore.getSelected().name}
+            value={input.loadoutStore.getSelected(input.t).name}
             onChange={(e: ChangeEvent<HTMLInputElement>) => input.loadoutStore.changeName(e.target.value)}
         />
 
@@ -28,14 +28,14 @@ export default observer((input: {loadoutStore: LoadoutStore, t: any}) => {
     return <div>
         <Multiselect
             singleSelect={true}
-            options={input.loadoutStore.prepareLoadoutForDropdown()}
-            placeholder={'Select loadout'}
+            options={input.loadoutStore.prepareLoadoutForDropdown(input.t)}
+            placeholder={input.t('loadout.select')}
             onSelect={(l: any, i: LoadoutItem) => {
-                input.loadoutStore.loadLoadout(i)
+                input.loadoutStore.loadLoadout(i, input.t)
             }}
             displayValue='name'
             selectedValues={[
-                input.loadoutStore.getSelected()
+                input.loadoutStore.getSelected(input.t)
             ]}
         />
         {nameChanger}

@@ -2,7 +2,9 @@
     "delete": "Delete",
     "save": "Save",
     "loadout": {
-        "select": "Select loadout"
+        "select": "Select loadout",
+        "create_new": "Create new",
+        "default_name": "New loadout"
     },
     "mastery": {
         "clear_all_data": "Clear all saved data",
@@ -33,5 +35,12 @@
         "cape": "Cape",
         "main hand": "Main Hand",
         "offhand": "Off-Hand"
+    },
+    "city": {
+        "caerleon": "Caerleon",
+        "thetford": "Thetford",
+        "fort_sterling": "Fort Sterling",
+        "lymhurst": "Lymhurst",
+        "bridgewatch": "Bridgewatch"
     }
 }

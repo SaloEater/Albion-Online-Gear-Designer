@@ -6,6 +6,7 @@ import { ItemTypePrices } from "../../../type/prices/item_type";
 import { ItemTierPrices } from "../../../type/prices/item_tier";
 import CItemTierPrices from './../item_tier'
 import PricesStore from '../../../state/prices'
+import { t } from "i18next";
 
 export default observer((input: {pricesStore: PricesStore, t: any}) => {
     let tabLists = input.pricesStore.prices.getActualPrices().map(
@@ -31,25 +32,20 @@ export default observer((input: {pricesStore: PricesStore, t: any}) => {
         }
     )
 
+    let cities = ['caerleon', 'thetford', 'fort_sterling', 'lymhurst', 'bridgewatch']
+        .map((i) => {return {name: i, display: input.t('city.' + i)}})
+
     return <div>
         <Multiselect
             singleSelect={true}
-            options={
-                [
-                    {'name': 'caerleon'},
-                    {'name': 'thetford'},
-                    {'name': 'fort_sterling'},
-                    {'name': 'lymhurst'},
-                    {'name': 'bridgewatch'},
-                ]
-            }
+            options={cities}
             placeholder={input.t('prices.select_city')}
             onSelect={(l: any, i: any) => {
                 input.pricesStore.prices.setCity(i.name)
             }}
-            displayValue='name'
+            displayValue='display'
             selectedValues={
-                [{'name': input.pricesStore.prices.city}]
+                [cities.find((i) => i.name == input.pricesStore.prices.city)]
             }
         />
         <Tabs

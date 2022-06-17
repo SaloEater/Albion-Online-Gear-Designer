@@ -50,9 +50,25 @@ export default class LoadoutStore {
         this.selectedIndex = index
     }
 
-    createNewLoadout() {
+    createNewLoadout(t: any) {
+        let newName = t('loadout.default_name');
+        let regex = new RegExp(newName + " \\((\\d+)\\)", 'g')
+        let numbers = this.loadouts.map((i) => regex.exec(i.name)).filter((i) => i ? i.length >= 2 : false).map((i) => i ? parseInt(i[1]) : 0)
+        
+        if (numbers.length > 0) {            
+            let maxNumber = Math.max(...numbers)
+
+            if (maxNumber == 0) {
+                newName += ' (1)'   
+            }
+
+            if (maxNumber > 0) {
+                newName += ' (' + (maxNumber + 1)  + ')'
+            }
+        }
+
         this.loadouts.push(new Loadout(
-            'New Loadout',
+            newName,
             this.mainStore.createSnapshot()
         ))
         this.select(this.loadouts.length - 1)
@@ -63,9 +79,9 @@ export default class LoadoutStore {
         this.save()
     }
 
-    prepareLoadoutForDropdown(): LoadoutItem[] {
+    prepareLoadoutForDropdown(t: any): LoadoutItem[] {
         let items = [
-            this.createEmpty()
+            this.createEmpty(t)
         ]
 
         this.loadouts.forEach((i, index) => {items.push(new LoadoutItem(
@@ -76,16 +92,16 @@ export default class LoadoutStore {
         return items
     }
 
-    createEmpty(): LoadoutItem {
+    createEmpty(t: any): LoadoutItem {
         return new LoadoutItem(
             -1,
-            'Create new'
+            t('loadout.create_new')
         )
     }
 
-    getSelected(): any {
+    getSelected(t: any): any {
         return this.selectedIndex == -1
-        ? this.createEmpty()
+        ? this.createEmpty(t)
         : new LoadoutItem(
             this.selectedIndex,
             this.loadouts[this.selectedIndex].name
@@ -98,13 +114,15 @@ export default class LoadoutStore {
         }
 
         this.loadouts.splice(this.selectedIndex, 1)
-        this.selectedIndex--
+        if (this.loadouts.length < this.selectedIndex + 1) {
+            this.selectedIndex--
+        }
         this.save()
     }
 
-    loadLoadout(item: LoadoutItem) {
+    loadLoadout(item: LoadoutItem, t: any) {
         if (item.index == -1) {
-            this.createNewLoadout()
+            this.createNewLoadout(t)
             this.select(this.loadouts.length - 1)
             this.save()
         } else {
