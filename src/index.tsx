@@ -6,6 +6,7 @@ import reportWebVitals from './reportWebVitals';
 import { Provider } from 'mobx-react';
 import MainStore from './state';
 import { autorun } from 'mobx';
+import './i18n';
 
 const mainStore = new MainStore;
 
@@ -19,6 +20,7 @@ root.render(
       GearStore={mainStore.gearStore}
       PricesStore={mainStore.pricesStore}
       LoadoutStore={mainStore.loadoutStore}
+      LanguageStore={mainStore.languageStore}
     >
       <App />
     </Provider>

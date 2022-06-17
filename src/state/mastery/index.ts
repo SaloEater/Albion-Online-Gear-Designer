@@ -8,12 +8,19 @@ import { ItemTypeMastery } from "../../type/mastery/type"
 class MasteryStore {
     test: ItemTypeMastery
     playerMastery: PlayerMastery
+    selectedTabIndex: number = 0
+    mainStore: MainStore
 
     constructor(mainStore: MainStore) {
         makeAutoObservable(this)
         this.test = new ItemTypeMastery('test', this)
         this.playerMastery = new PlayerMastery(this, mainStore)
         this.loadFromStorage()
+        this.mainStore = mainStore
+    }
+
+    setIndex(index: number) {
+        this.selectedTabIndex = index
     }
 
     save() {
@@ -93,7 +100,8 @@ class MasteryStore {
         localStorage.removeItem('masteryStore.itemTypeMasteries')
         localStorage.removeItem('masteryStore.itemMasteries')
         localStorage.removeItem('masteryStore.otherMasteries')
-        localStorage.removeItem('gearStore.itemSet')
+        this.mainStore.gearStore.clearCache()
+        this.mainStore.loadoutStore.clearCache()
     }
 
     getIPs(): any[] {

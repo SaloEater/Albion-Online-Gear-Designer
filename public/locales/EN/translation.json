@@ -1,0 +1,37 @@
+{
+    "delete": "Delete",
+    "save": "Save",
+    "loadout": {
+        "select": "Select loadout"
+    },
+    "mastery": {
+        "clear_all_data": "Clear all saved data",
+        "item_type": "Item Type Mastery",
+        "item": "Selected Item Mastery",
+        "other_mastery": "Additional Type Mastery №{{number}}"
+    },
+    "gear": {
+        "two_handed_state": "Is two handed weapon",
+        "price": "Price",
+        "suggested_ip": "Suggested IP",
+        "calculate": "Calculate",
+        "calculate_ip": "Calculate IP",
+        "fetch_first": "Fetch prices first",
+        "ip_stat": "IP",
+        "price_stat": "Price",
+        "hardcoded_ip": "IP locked",
+        "select_item": "Select item"
+    },
+    "prices": {
+        "select_city": "Select city",
+        "fetch_prices": "Fetch prices"
+    },
+    "gear_type": {
+        "helmet": "Head",
+        "body armour": "Chest",
+        "boots": "Shoes",
+        "cape": "Cape",
+        "main hand": "Main Hand",
+        "offhand": "Off-Hand"
+    }
+}

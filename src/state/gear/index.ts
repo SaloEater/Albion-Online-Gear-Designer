@@ -3,11 +3,13 @@ import MainStore from '..'
 import GearItem from '../../type/gear/item'
 import GearItemTypeLists from '../../type/gear/list'
 import GearItemTypeList from '../../type/gear/list/item'
+import TranslatedGearItemTypeLists from '../../type/gear/translated_list'
 
 class GearStore {
     itemSet: GearItem[] = []
     isTwoHanded: boolean = false
     baseTypeLists: GearItemTypeLists = new GearItemTypeLists()
+    translatedTypeLists: TranslatedGearItemTypeLists = new TranslatedGearItemTypeLists()
     necessaryIP: number = 0
     mainStore: MainStore
 
@@ -16,6 +18,7 @@ class GearStore {
             itemSet: observable,
             isTwoHanded: observable,
             necessaryIP: observable,
+            translatedTypeLists: observable,
             setTwoHanded: action,
             updateTwoHandedStatus: action,
             setNecessaryIP: action
@@ -28,6 +31,10 @@ class GearStore {
         this.itemSet.push(new GearItem('offhand', this))
         this.mainStore = mainStore
         this.load()
+    }
+
+    updateTranslations(lists: TranslatedGearItemTypeLists) {
+        this.translatedTypeLists = lists
     }
 
     save() {
@@ -59,14 +66,14 @@ class GearStore {
                 this.itemSet.filter((j: GearItem) => j.slot == slot).forEach((k: GearItem) => {
                     k.manuallyEdited = manuallyEdited
                     if (manuallyEdited) {
-                        k.tier = tier
-                        k.enchantment = enchantment
+                        k.setTier(tier)
+                        k.setEnchantment(enchantment)
                     } else {
-                        k.tier = 0
-                        k.enchantment = 0
+                        k.setTier(0)
+                        k.setEnchantment(0)
                     }
-                    k.baseType = baseType
-                    this.isTwoHanded = this.isTwoHanded || this.isTwoHandedItem(baseType)
+                    k.setBaseType(baseType)
+                    this.setTwoHanded(this.isTwoHanded || this.isTwoHandedItem(baseType))
                 })
             }
         )

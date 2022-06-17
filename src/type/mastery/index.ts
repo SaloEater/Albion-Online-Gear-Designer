@@ -27,7 +27,7 @@ export class PlayerMastery {
     }
 
     getActualMasteries(): ItemTypeMastery[] {
-        return this.masteries.filter((i: ItemTypeMastery) => !this.mainStore.gearStore.isTwoHanded || i.slot != 'offhand')
+        return this.masteries.filter((i: ItemTypeMastery) => (!this.mainStore.gearStore.isTwoHanded || i.slot != 'offhand') && i.slot != 'cape')
     }
     
     getMastery(slot: string): ItemTypeMastery|null {

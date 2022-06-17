@@ -1,13 +1,13 @@
 import { computed } from "mobx";
 import {inject, observer} from "mobx-react";
 import React, {ChangeEvent, ReactNode} from "react";
+import { Translation, useTranslation } from "react-i18next";
 import withRouter from "react-router-dom";
 import { Tab, TabList, TabPanel, Tabs } from "react-tabs";
 import MasteryStore from "../../../state/mastery"
 import { ItemMastery } from "../../../type/mastery/item";
-import { ItemTypeMastery } from "../../../type/mastery/type";
-import CItemTypeMastery from "../item_type_mastery"
 import styles from "./styles.module.css"
+import PlayerMasteryC from './itself'
 
 class PlayerMasteryComponent extends React.Component {
     masteryStore: MasteryStore
@@ -17,32 +17,13 @@ class PlayerMasteryComponent extends React.Component {
         this.masteryStore = props.MasteryStore
     }
 
-    render(): React.ReactNode {
-        
-        let masteries = this.masteryStore.playerMastery.getActualMasteries()
-
-        let tabLists: ReactNode[] = []
-        let tabPanels: ReactNode[] = []
-
-        masteries.forEach((i: ItemTypeMastery, index: number) => {
-            tabLists.push(<Tab key={index}>{i.slot}</Tab>)
-            tabPanels.push(<TabPanel key={index}><CItemTypeMastery itemTypeMastery={i}/></TabPanel>)
-        })
-
+    render(): React.ReactNode {        
         return (
-            <div>
-                <button
-                    onClick={() => this.masteryStore.clearCache()}
-                >Clear all saved data</button>
-                
-                <Tabs>
-                    <TabList>
-                        {tabLists}
-                    </TabList>
-                    
-                    {tabPanels}
-                </Tabs>
-            </div>
+            <Translation>
+                {
+                    t => <PlayerMasteryC masteryStore={this.masteryStore} t={t}/>
+                }
+            </Translation>
         );
     }
 

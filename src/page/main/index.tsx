@@ -5,6 +5,7 @@ import {inject, observer} from "mobx-react"
 import styles from "./styles.module.css"
 import { CPrices } from '../../component/prices'
 import { CLoadouts } from '../../component/loadout'
+import { CLanguage } from '../../component/language'
 
 class MainPageComponent extends React.Component<any, any>
 {
@@ -12,7 +13,14 @@ class MainPageComponent extends React.Component<any, any>
         return (
             <div>
                 <div className={styles.items}>
-                    <CLoadouts/>
+                    <div className={styles.grid_header}>
+                        <div className={styles.language}>
+                            <CLanguage/>
+                        </div>
+                        <div className={styles.loadout}>
+                            <CLoadouts/>
+                        </div>
+                    </div>
                 </div>
                 <div className={styles.items}>
                     <PlayerMastery />

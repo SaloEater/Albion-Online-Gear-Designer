@@ -13,7 +13,9 @@ export default class LoadoutStore {
             loadouts: observable,
             selectedIndex: observable,
             select: action,
-            createNewLoadout: action
+            createNewLoadout: action,
+            removeCurrent: action,
+            loadLoadout: action
         })
         this.mainStore = mainStore
         this.load()
@@ -29,7 +31,7 @@ export default class LoadoutStore {
             )))
     
             this.select(data.selectedIndex)
-            this.loadByIndex(this.selectedIndex)
+            //this.loadByIndex(this.selectedIndex)
         }        
     }
 
@@ -38,6 +40,10 @@ export default class LoadoutStore {
             loadouts: this.loadouts,
             selectedIndex: this.selectedIndex
         }))
+    }
+
+    clearCache() {
+        localStorage.removeItem('loadout')
     }
 
     select(index: number) {
@@ -106,6 +112,7 @@ export default class LoadoutStore {
             this.save()
         }
     }
+
     loadByIndex(index: number) {
         this.select(index)
         let loadout = this.loadouts[index]

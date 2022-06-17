@@ -1,4 +1,5 @@
 import { observer } from "mobx-react-lite";
+import { useTranslation } from "react-i18next";
 import { CItemTierInput } from "../../../type/component/prices/item_tier";
 import { ItemPrice } from "../../../type/prices/item";
 import CItemPrice from '../item'

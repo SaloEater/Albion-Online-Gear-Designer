@@ -11,30 +11,34 @@ import { ItemTypeMastery } from "../../../type/mastery/type";
 import GearItemTypeList from "../../../type/gear/list/item";
 import Multiselect from 'multiselect-react-dropdown';
 import {CGearItemInput} from '../../../type/component/gear/item'
+import TranslatedGearItemType from "../../../type/gear/translated_list/item";
+import styles from "./styles.module.css"
+import { useTranslation } from "react-i18next";
 
 export default observer((input: CGearItemInput) => {
+    const { t, i18n } = useTranslation();
     let item = input.item
     let list = input.list
     let label = item.slot
 
-    return <div>
+    let selected = list.items.find((i) => i.type == item.baseType)
+    let selectedValues = selected !== undefined ? [selected] : []
+    
+
+    return <div className={styles.item}>
         <label>
-            <div>{label}</div>
             <Multiselect
+                onKeyPressFn={(e, i) => console.log(i)}
+                onSearch={(i) => console.log(i)}
+                keepSearchTerm={true}
                 singleSelect={true}
-                options={list.items.map((i: string) => {
-                    return {
-                        'type': i
-                    }
-                })}
-                placeholder={'Select item'}
-                onSelect={(l: any, i: any) => {
+                options={list.items}
+                placeholder={t('gear.select_item')}
+                onSelect={(l: any, i: TranslatedGearItemType) => {
                     item.setBaseType(i.type)
                 }}
-                displayValue='type'
-                selectedValues={
-                    [{'type': item.baseType}]
-                }
+                displayValue='translation'
+                selectedValues={selectedValues}
             />
             <input
                 name={label+"_spec"}
@@ -53,19 +57,21 @@ export default observer((input: CGearItemInput) => {
                 onChange={(e: ChangeEvent<HTMLInputElement>) => item.setEnchantment(parseInt(e.target.value))}
             />
             <div>
-                Price: {item.getPrice()}
+                <button
+                    onClick={() => item.calculateOwnIP()}
+                >{t('gear.calculate_ip')}</button>
+                {t('gear.ip_stat')}: {item.totalIP}
             </div>
             <div>
-                Hardcoded:
+                {t('gear.hardcoded_ip')}:
                 <input
                     type="checkbox"
                     checked={item.manuallyEdited}
                     readOnly={true}
                 />
-                {/* <button
-                    onClick={() => item.calculateOwnIP()}
-                >IP</button> */}
-                IP: {item.totalIP}
+            </div>
+            <div>
+                {t('gear.price_stat')}: {item.getPrice()}
             </div>
         </label>
     </div>

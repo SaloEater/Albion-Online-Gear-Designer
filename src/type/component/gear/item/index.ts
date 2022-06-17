@@ -1,7 +1,7 @@
 import GearItem from "../../../gear/item"
-import GearItemTypeList from "../../../gear/list/item"
+import TranslatedGearItemTypeList from "../../../gear/translated_list/list"
 
 export interface CGearItemInput {
     item: GearItem
-    list: GearItemTypeList
+    list: TranslatedGearItemTypeList
 }

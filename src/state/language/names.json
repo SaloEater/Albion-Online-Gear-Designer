@@ -1,0 +1,6361 @@
+[{
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Evensong"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Abendlied"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cercle vesperien"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Песнь заката"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pieśń Nabożeństwa"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sonido equilibrado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Som Equilibrado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级夜祷之戒"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 이븐송"
+    }],
+    "name": "2H_ARCANE_RINGPAIR_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Great Arcane Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großer Arkanstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grand bâton ésotérique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой мистический посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielki Tajemny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran bastón arcano"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Arcano Elevado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级杰出奥术法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트 아케인 스태프"
+    }],
+    "name": "2H_ARCANESTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Occult Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Okkulter Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton occulte"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Оккультный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Okultystyczny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón oculto"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Oculto"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级秘术法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 오컬트 스태프"
+    }],
+    "name": "2H_ARCANESTAFF_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Greataxe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großaxt"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grande hache"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой топор"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Topór"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran hacha"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Machadão"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级巨斧"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트액스"
+    }],
+    "name": "2H_AXE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Realmbreaker"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Sphärenbrecher"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Brise-royaume"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Разрушитель миров"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Łamacz Wymiarów"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Romperreinos"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Quebra-reino"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级裂域斧"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 렐름브레이커"
+    }],
+    "name": "2H_AXE_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Bow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Bogen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arc"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Лук"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Łuk"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Arco"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Arco"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级弓箭"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 보우"
+    }],
+    "name": "2H_BOW"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mistpiercer"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Nebelbrecher"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Perce-brume"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Туманный пронзатель"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Przebijacz Mgły"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Perforador de niebla"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Fura-bruma"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级破雾之弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 미스트피어서"
+    }],
+    "name": "2H_BOW_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Wailing Bow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Heulender Bogen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arc gémissant"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Воющий лук"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Łkający Łuk"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Arco de lamentaciones"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Arco Plangente"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级哀啸之弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 웨일링 보우"
+    }],
+    "name": "2H_BOW_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Bow of Badon"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Badon-Bogen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arc de Badon"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Лук Бадона"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Łuk z Badon"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Arco de Badon"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Arco Badônico"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级巴顿弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 바돈 보우"
+    }],
+    "name": "2H_BOW_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Claws"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Klauen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Griffes"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Когти"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szpony"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Garras"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Garras"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级钩爪"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 클로"
+    }],
+    "name": "2H_CLAWPAIR"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Claymore"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Claymore"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Claymore"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Клеймор"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Claymore"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Claymore"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Montante"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级阔刃大剑"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 클레이모어"
+    }],
+    "name": "2H_CLAYMORE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Kingmaker"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königsmacher"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Adoube-roi"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Царетворец"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królotwórca"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Crea-reyes"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cria-reis"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级拥王阔刃大剑"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 킹메이커"
+    }],
+    "name": "2H_CLAYMORE_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Carving Sword"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schnitzschwert"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Épée tranchante"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Меч резни"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Rozpruwający Miecz"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Espada tallada"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Espada Entalhada"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级断水剑"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 조각용 소드"
+    }],
+    "name": "2H_CLEAVER_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Black Monk Stave"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schwarzer-Mönch-Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de moine noir"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох черного монаха"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Laga Czarnego Mnicha"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de monje negro"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado de Monge Negro"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级黑僧棍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 블랙 몽크 스태프"
+    }],
+    "name": "2H_COMBATSTAFF_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Crossbow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Armbrust"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arbalète"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Арбалет"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kusza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Ballesta"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Besta"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级十字弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 크로스보우"
+    }],
+    "name": "2H_CROSSBOW"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Energy Shaper"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Energieformer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Matrice d'énergie"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Творец энергии"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Tkacz Energii"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Modelador de energía"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Modelador de Energia"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级塑能炮"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 에너지 셰이퍼"
+    }],
+    "name": "2H_CROSSBOW_CANNON_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Heavy Crossbow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schwere Armbrust"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arbalète lourde"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Тяжелый арбалет"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Ciężka Kusza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Ballesta pesada"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Besta Pesada"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级重型十字弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헤비 크로스보우"
+    }],
+    "name": "2H_CROSSBOWLARGE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Siegebow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Belagerungsbogen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arc de siège"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Осадный арбалет"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Łuk Oblężniczy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Arco de asedio"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Arco de Cerco"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级围城弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 시지보우"
+    }],
+    "name": "2H_CROSSBOWLARGE_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Great Cursed Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großer verfluchter Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grand bâton damné"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой проклятый посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielki Przeklęty Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran bastón maldito"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Amaldiçoado Elevado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级杰出诅咒法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트 저주받은 스태프"
+    }],
+    "name": "2H_CURSEDSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Damnation Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Verdammnisstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de la damnation"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох обреченности"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Potępienia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de maldiciones"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado da Danação"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级天谴法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 댐네이션 스태프"
+    }],
+    "name": "2H_CURSEDSTAFF_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Bridled Fury"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gezügelte Wut"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Brides-furie"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Укротитель ярости"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Oswojona Furia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Furia contenida"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Fúria Contida"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级遏怒拳刃"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 브라이들드 퓨리"
+    }],
+    "name": "2H_DAGGER_KATAR_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Dagger Pair"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dolchpaar"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Paire de dagues"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Парные кинжалы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Para Sztyletów"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Daga doble"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Par de Adagas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级双匕首"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 대거 페어"
+    }],
+    "name": "2H_DAGGERPAIR"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Demonic Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dämonenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton démoniaque"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Демонический посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Demoniczny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón demoníaco"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Demoníaco"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶魔法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 데모닉 스태프"
+    }],
+    "name": "2H_DEMONICSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Divine Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gottesstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton divin"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Божественный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Niebiański Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón divino"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Divino"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级崇高法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 디바인 스태프"
+    }],
+    "name": "2H_DIVINESTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Double Bladed Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Doppelklingenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton à double tranchant"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Острый шест"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Rohatyna"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de doble filo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Bilaminado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级双刃棍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 더블 블레이디드 스태프"
+    }],
+    "name": "2H_DOUBLEBLADEDSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Bear Paws"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Bärentatzen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Pattes d'ours"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Медвежьи лапы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Niedźwiedzie Łapy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Patas de oso"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Patas de Urso"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级熊爪神斧"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 베어 포"
+    }],
+    "name": "2H_DUALAXE_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Boltcasters"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Bolzenschleudern"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Lanceurs de foudre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Самострелы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Miotacze Bełtów"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Lanzasaetas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Lança-virotes"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级霹雳连弩"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 볼트캐스터"
+    }],
+    "name": "2H_DUALCROSSBOW_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Forge Hammers"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schmiedehämmer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Marteaux forgés"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Молоты кузни"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Młoty Kuźnicze"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Martillos de forja"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Martelos de Forja"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级锻造之锤"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 대장간 망치"
+    }],
+    "name": "2H_DUALHAMMER_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Oathkeepers"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schwurhüter"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Gardes-serment"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Хранители клятвы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Strażnicy Przysięgi"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Juradores"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Jurador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守誓双锤"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 오스키퍼"
+    }],
+    "name": "2H_DUALMACE_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Galatine Pair"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Galatinepaar"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Paire de galatines"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Парные галатины"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Para Galatynów"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Dos galatinas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Par de Galatinas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级双刀"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 갤러틴 페어"
+    }],
+    "name": "2H_DUALSCIMITAR_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Deathgivers"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Todbringer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sacrificateur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Вестники смерти"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Śmiercionośki"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Concedemuertes"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Mortíficos"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级冥使匕首"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 데스기버"
+    }],
+    "name": "2H_DUALSICKLE_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Dual Swords"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Zweischwerter"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Épée double"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Парные мечи"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Podwójne Miecze"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Dos espadas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Espadas Duplas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级双剑"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 듀얼 소드"
+    }],
+    "name": "2H_DUALSWORD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Malevolent Locus"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Geheimnisvolle Sphäre"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Locus malveillant"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Средоточие злобы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Mroczna Kula"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Locus malévolo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Local Malévolo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级虚无轨迹"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 말레볼렌트 로커스"
+    }],
+    "name": "2H_ENIGMATICORB_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Enigmatic Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Mysteriöser Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton énigmatique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Загадочный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Enigmatyczny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón enigmático"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Enigmático"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级玄秘法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 에니그마틱 스태프"
+    }],
+    "name": "2H_ENIGMATICSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Dawnsong"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Morgenlied"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Aria de l'aube"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Песнь рассвета"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pieśń Brzasku"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Canción del despertar"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Canção da Alvorada"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级暮歌之戒"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 던송"
+    }],
+    "name": "2H_FIRE_RINGPAIR_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Great Fire Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großer Feuerstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grand bâton de feu"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой огненный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielki Ognisty Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran bastón ígneo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado de Fogo Elevado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级杰出火焰法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트 파이어 스태프"
+    }],
+    "name": "2H_FIRESTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Brimstone Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schwefelstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton sulfureux"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох серы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Siarczany Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de azufre"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Sulfuroso"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级炎狱法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 브림스톤 스태프"
+    }],
+    "name": "2H_FIRESTAFF_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Morning Star"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Morgenstern"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Morgenstern"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Моргенштерн"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kiścień"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Mangual"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Mangual"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级晨星"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 모닝 스타"
+    }],
+    "name": "2H_FLAIL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Great Frost Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großer Froststab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grand bâton de givre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой морозный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielki Mroźny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran bastón de hielo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado de Gelo Elevado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级杰出天霜法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트 프로스트 스태프"
+    }],
+    "name": "2H_FROSTSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Glacial Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gletscherstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton glacial"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ледяной посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Lodowy Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón glacial"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Glacial"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级冰封法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 글래셜 스태프"
+    }],
+    "name": "2H_GLACIALSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Glaive"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Glefe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Glaive"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Глефа"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Glewia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Guja"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Archa"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级长刀"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 글레이브"
+    }],
+    "name": "2H_GLAIVE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Halberd"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Hellebarde"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Hallebarde"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Алебарда"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Halabarda"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Alabarda"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Alabarda"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级战戟"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 할버드"
+    }],
+    "name": "2H_HALBERD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Carrioncaller"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Aasrufer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Mande-charogne"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Падальщик"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Padlinotwórca"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Llamacarroña"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Chama-corpos"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级腐蚀召唤神斧"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 캐리온콜러"
+    }],
+    "name": "2H_HALBERD_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Great Hammer"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großhammer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grand marteau"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой молот"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielki Młot"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran martillo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Martelo Elevado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级巨锤"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트 해머"
+    }],
+    "name": "2H_HAMMER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hand of Justice"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Hand der Gerechtigkeit"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Main de justice"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Длань правосудия"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Ręka Sprawiedliwości"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Mano de justicia"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Mão da Justiça"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级正义之手大锤"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 핸드 오브 저스티스"
+    }],
+    "name": "2H_HAMMER_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Tombhammer"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Grabhammer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Martel-tombe"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Могильный молот"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Obuch Grobowy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Martillo de la tumba"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Martelo Fúnebre"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级撼墓之锤"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 툼해머"
+    }],
+    "name": "2H_HAMMER_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Spirithunter"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Geisterjäger"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chassesprit"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Охотник за душами"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Łowca Ducha"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Cazaespíritus"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Caça-espíritos"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级索魂尖枪"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스피릿헌터"
+    }],
+    "name": "2H_HARPOON_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Great Holy Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großer Heiligenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grand bâton béni"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой священный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielki Święty Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran bastón sagrado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Sagrado Elevado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级杰出神圣法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트 홀리 스태프"
+    }],
+    "name": "2H_HOLYSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Fallen Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gefallenenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton déchu"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох падших"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Upadku"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón caído"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Corrompido"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级堕落法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 폴른 스태프"
+    }],
+    "name": "2H_HOLYSTAFF_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Redemption Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Erlösungsstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de rédemption"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох искупления"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Odkupienia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de redención"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado da Redenção"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级救赎法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 리뎀션 스태프"
+    }],
+    "name": "2H_HOLYSTAFF_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Permafrost Prism"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Permafrostprisma"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Prisme de pergélisol"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Призма вечного холода"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pryzmat Zmarzliny"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Prisma de hielos perpetuos"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Prisma Geleterno"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级永霜冰棱"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 퍼마프로스트 프리즘"
+    }],
+    "name": "2H_ICECRYSTAL_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Icicle Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Eiszapfenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de stalactite"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Заледенелый посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Soplowy Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de carámbanos"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado de Sincelo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级冰针法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 아이시클 스태프"
+    }],
+    "name": "2H_ICEGAUNTLETS_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Infernal Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Höllenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton infernal"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Адский посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Piekielny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón infernal"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Infernal"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级赤炎法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 인페르날 스태프"
+    }],
+    "name": "2H_INFERNOSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Blazing Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gleißender Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton ardent"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Пылающий посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Płonący Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón flamígero"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Fulgurante"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级炙天法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 블레이징 스태프"
+    }],
+    "name": "2H_INFERNOSTAFF_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Iron-clad Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Eisenpanzerstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton sans faille"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Железный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Żelazny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón metálico"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Férreo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级铁棍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 아이언 클래드 스태프"
+    }],
+    "name": "2H_IRONCLADEDSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Fists of Avalon"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Fäuste von Avalon"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Poings d'Avalon"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Кулаки Авалона"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pięści Awalonu"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Puños de Avalon"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Punhos de Avalon"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级阿瓦隆之拳"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 아발론의 철권"
+    }],
+    "name": "2H_KNUCKLES_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hellfire Hands"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Höllenfeuerhände"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Mains infernales"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Адские длани"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Piekielne Ręce"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Manos infernales"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Mãos Infernais"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级炼狱火之手"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 지옥불 장갑"
+    }],
+    "name": "2H_KNUCKLES_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Ursine Maulers"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Bärenzerfleischer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Poignes ursines"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Медвежьи перчатки"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Niedźwiedzie Kły"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zarpas osunas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Luvas Ursinas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级熊卫士之击"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 곰 주먹"
+    }],
+    "name": "2H_KNUCKLES_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Ravenstrike Cestus"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Rabenschlag-Caestus"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cestes-des-freux"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Вороний цестус"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Cestus Ostrza Kruka"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Cestus córvidos"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cestus Golpeadores"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级乌鸦之爪"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 까마귀 장갑"
+    }],
+    "name": "2H_KNUCKLES_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Brawler Gloves"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schlägerhandschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Gantelets de bagarreur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Перчатки крушителя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Rękawice Awanturnika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Guantes de peleador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Luvas de Lutador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级格斗手套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 난투 장갑"
+    }],
+    "name": "2H_KNUCKLES_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Battle Bracers"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kampfarmschützer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Brassards de bataille"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Боевые наручи"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Karwasze Bitewne"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Brazales de batalla"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Braçadeiras de Batalha"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级战斗护腕"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 전투 브레이서"
+    }],
+    "name": "2H_KNUCKLES_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Spiked Gauntlets"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Nagelhandschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Gantelets à pointes"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Шипастые рукавицы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kolczaste Rękawice"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Guanteletes de púas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Manoplas Cravadas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级尖刺护手"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 가시 건틀렛"
+    }],
+    "name": "2H_KNUCKLES_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Longbow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Langbogen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arc long"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Длинный лук"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Długi Łuk"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Arco largo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Arco Longo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级长弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 롱보우"
+    }],
+    "name": "2H_LONGBOW"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Whispering Bow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Flüsternder Bogen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arc murmurant"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Шепчущий лук"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szepczący Łuk"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Arco susurrante"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Arco Sussurrante"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级低语之弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 위스퍼링 보우"
+    }],
+    "name": "2H_LONGBOW_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Heavy Mace"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schwere Keule"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Masse lourde"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Тяжелая булава"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Ciężki Buzdygan"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Maza pesada"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Maça Pesada"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级重型锤杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헤비 메이스"
+    }],
+    "name": "2H_MACE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Camlann Mace"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Camlann-Keule"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Masse de Camlann"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Булава Камланна"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buzdygan z Camlann"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Maza de Camlann"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Maça Cambriana"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级卡姆兰锤杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 캄란 메이스"
+    }],
+    "name": "2H_MACE_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Great Nature Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Großer Naturstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Grand bâton naturel"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Большой древесный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielki Kostur Natury"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Gran bastón natural"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado da Natureza Elevado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级杰出自然法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이트 네이쳐 스태프"
+    }],
+    "name": "2H_NATURESTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Blight Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Verderbnisstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de fléau"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох порчи"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Plagi"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de infortunio"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Pustulento"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级瘟病法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 블라이트 스태프"
+    }],
+    "name": "2H_NATURESTAFF_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Rampant Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Randalierender Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton effréné"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Неудержимый посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Bujności"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón desenfrenado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Rampante"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级灾荒法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 램펀트 스태프"
+    }],
+    "name": "2H_NATURESTAFF_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Polehammer"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Rabenschnabel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bec de corbin"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Чекан"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Obuch"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Martillo largo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Martelo de Batalha"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级长锤"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 폴해머"
+    }],
+    "name": "2H_POLEHAMMER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Quarterstaff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kampfstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Long bâton"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Боевой шест"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kij"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Vara"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Bordão"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级铁头棒"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 쿼터스태프"
+    }],
+    "name": "2H_QUARTERSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Grailseeker"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gralsucher"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cherchegraal"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Искатель Грааля"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Poszukiwacz Graala"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Buscador de grial"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Buscador do Graal"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级觅圣铁头棒"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레일시커"
+    }],
+    "name": "2H_QUARTERSTAFF_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Grovekeeper"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Hainhüter"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Gardien du bosquet"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Хранитель рощи"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Opiekun Gaju"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Guardabosques"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Guarda-bosques"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守林木桩"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그로브키퍼"
+    }],
+    "name": "2H_RAM_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Weeping Repeater"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Klagender Repetierer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arbalète à répétition des larmes"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плачущий арбалет"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Wielostrzałowiec"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Repetidora de desconsuelo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Repetidor Lamentoso"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级愁怨连弩"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 위핑 리피터"
+    }],
+    "name": "2H_REPEATINGCROSSBOW_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Staff of Balance"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gleichgewichtsstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton d'équilibre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох равновесия"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Równowagi"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de equilibrio"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado do Equilíbrio"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级平衡铁棍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 균형의 스태프"
+    }],
+    "name": "2H_ROCKSTAFF_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Infernal Scythe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Höllensense"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Faux infernale"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Адская коса"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Infernalna Kosa"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Guadaña infernal"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Segadeira Infernal"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级赤炎镰刀"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 인페르날 사이드"
+    }],
+    "name": "2H_SCYTHE_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cursed Skull"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Verfluchter Schädel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Crâne damné"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Проклятый череп"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Przeklęta Czaszka"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Calavera maldita"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Caveira Amaldiçoada"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级诅咒头颅"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 저주받은 해골"
+    }],
+    "name": "2H_SKULLORB_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Pike"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Pike"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Pique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Пика"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Pica"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Pique"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级长枪"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 파이크"
+    }],
+    "name": "2H_SPEAR"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Trinity Spear"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dreifaltigkeitsspeer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Lance de la trinité"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Трезубец"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Włócznia Trójcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Lanza de trinidad"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Lança Trina"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级三叉戟"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 트리니티 스피어"
+    }],
+    "name": "2H_TRIDENT_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Soulscythe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Seelensense"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Fauchâme"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Коса душ"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kosa Dusz"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Guadaña de almas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Seganímica"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级灵魂之镰"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 소울사이드"
+    }],
+    "name": "2H_TWINSCYTHE_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Warbow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kriegsbogen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arc de guerre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Боевой лук"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Łuk Wojenny"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Arco de guerra"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Arco de Guerra"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级战弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 워보우"
+    }],
+    "name": "2H_WARBOW"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Wild Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Wildstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton sauvage"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Дикий посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Dziki Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón salvaje"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Selvagem"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级狂野法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 와일드 스태프"
+    }],
+    "name": "2H_WILDSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Robe of Purity"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Robe der Reinheit"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe de pureté"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Мантия чистоты"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szata Czystości"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica de pureza"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe da Pureza"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级纯洁长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 순수의 로브"
+    }],
+    "name": "ARMOR_CLOTH_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Fiend Robe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Unholdrobe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe de monstre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Дьявольская мантия"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Czarcia Szata"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica de diablo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe Malévolo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶灵长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 피엔드 로브"
+    }],
+    "name": "ARMOR_CLOTH_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Druid Robe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Druidenrobe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe de druide"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Мантия друида"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szata Druida"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica de druida"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe de Druida"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级德鲁伊长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 드루이드 로브"
+    }],
+    "name": "ARMOR_CLOTH_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cultist Robe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kultistenrobe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe de culte"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Мантия культиста"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szata Kultysty"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica de sectario"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe Sectário"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级邪教徒长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 컬티스트 로브"
+    }],
+    "name": "ARMOR_CLOTH_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Robe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Robe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe royale"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевская мантия"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewska Szata"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica real"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe Real"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 로브"
+    }],
+    "name": "ARMOR_CLOTH_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Scholar Robe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gelehrtenrobe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe d'érudit"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Мантия ученого"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szata Uczonego"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica de erudito"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe de Erudito"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级学士长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스콜라 로브"
+    }],
+    "name": "ARMOR_CLOTH_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cleric Robe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Klerikerrobe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe d'ecclésiastique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Мантия клирика"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szata Kleryka"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica de clérigo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe de Clérigo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级牧师长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 클레릭 로브"
+    }],
+    "name": "ARMOR_CLOTH_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mage Robe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Magierrobe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Robe de mage"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Мантия чародея"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Szata Maga"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Túnica de mago"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Robe de Mago"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级法师长袍"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 메이지 로브"
+    }],
+    "name": "ARMOR_CLOTH_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Jacket of Tenacity"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Jacke der Beharrlichkeit"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste de tenacité"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Куртка упорства"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kurtka Uporu"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta de tenacidad"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco da Tenacidade"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级坚韧外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 끈기의 자켓"
+    }],
+    "name": "ARMOR_LEATHER_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hellion Jacket"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Teufelsbratenjacke"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste de tourmenteur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Адская куртка"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kurtka Diablika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta de vándalo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco Inferial"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级喧嚣外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헬리온 재킷"
+    }],
+    "name": "ARMOR_LEATHER_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Stalker Jacket"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Pirschjägerjacke"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste de traqueur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Куртка лазутчика"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kurtka Prześladowcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta de acechador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco de Espreitador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级尾行外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스토커 재킷"
+    }],
+    "name": "ARMOR_LEATHER_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Jacket"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Jacke"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste royale"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевская куртка"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewska Kurtka"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta real"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco Real"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 재킷"
+    }],
+    "name": "ARMOR_LEATHER_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mercenary Jacket"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Söldnerjacke"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste de mercenaire"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Куртка наемника"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kurtka Najemnika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta de mercenario"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco de Mercenário"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级雇佣兵外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 용병 재킷"
+    }],
+    "name": "ARMOR_LEATHER_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hunter Jacket"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Jägerjacke"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste de chasseur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Куртка охотника"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kurtka Łowcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta de cazador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco de Caçador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级猎人外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헌터 재킷"
+    }],
+    "name": "ARMOR_LEATHER_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Assassin Jacket"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Attentäterjacke"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste d'assassin"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Куртка убийцы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kurtka Skrytobójcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta de asesino"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco de Assassino"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级刺客外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 어쌔신 재킷"
+    }],
+    "name": "ARMOR_LEATHER_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Specter Jacket"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gespensterjacke"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Veste de spectre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Куртка призрака"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kurtka Widma"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Chaqueta de espectro"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Casaco Espectral"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级幽灵外套"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스펙터 재킷"
+    }],
+    "name": "ARMOR_LEATHER_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Armor of Valor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Rüstung des Mutes"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure de bravoure"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Броня доблести"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Zbroja Męstwa"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura de valor"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura da Bravura"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级英勇盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 용기의 아머"
+    }],
+    "name": "ARMOR_PLATE_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Demon Armor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dämonenrüstung"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure de démon"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Демоническая броня"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Zbroja Demona"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura de demonio"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura Demônia"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶魔盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 데몬 아머"
+    }],
+    "name": "ARMOR_PLATE_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Judicator Armor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Rechtssprecherrüstung"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure de judicateur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Броня вершителя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Zbroja Rozjemcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura de juez"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura Judicante"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级审判盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 심판관 아머"
+    }],
+    "name": "ARMOR_PLATE_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Armor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Rüstung"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure royale"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевская броня"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewska Zbroja"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura real"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura Real"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 아머"
+    }],
+    "name": "ARMOR_PLATE_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Soldier Armor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Soldatenrüstung"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure de soldat"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Броня солдата"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Zbroja Żołnierza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura de soldado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura de Soldado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级士兵盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 병사 아머"
+    }],
+    "name": "ARMOR_PLATE_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Knight Armor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Ritterrüstung"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure de chevalier"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Броня рыцаря"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Zbroja Rycerza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura de caballero"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura de Cavaleiro"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级骑士盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 나이트 아머"
+    }],
+    "name": "ARMOR_PLATE_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Guardian Armor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Beschützerrüstung"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure de gardien"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Броня хранителя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Zbroja Stróża"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura de guardián"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura de Guardião"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守卫盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 가디언 아머"
+    }],
+    "name": "ARMOR_PLATE_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Graveguard Armor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Grabwächterrüstung"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Armure de gardetombe"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Могильная броня"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Zbroja Straży Grobowej"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Armadura de guardatumbas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Armadura de Guarda-tumbas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守墓人盔甲"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이브가드 아머"
+    }],
+    "name": "ARMOR_PLATE_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Umhang"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плащ"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 망토"
+    }],
+    "name": "CAPE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Arena Veteran's Small Banner"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kleines Banner des Arenaveteranen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Petite bannière de vétéran de l'Arène"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Малый флаг ветерана арены"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Mały Sztandar Weterana Areny"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Estandarte pequeño del veterano de arena"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Estandarte Pequeno do Veterano de Arena"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "竞技场老兵小型战旗"
+    }, {
+        "lang": "KO-KR",
+        "seg": "아레나 베테랑의 작은 배너"
+    }],
+    "name": "CAPE_ARENA_BANNER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Demon Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dämonenumhang"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape démoniaque"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плащ Демонов"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Demona"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa demoníaca"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa Demoníaca"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶魔披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 악마 망토"
+    }],
+    "name": "CAPEITEM_DEMON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Bridgewatch Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Umhang von Bridgewatch"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape de Bridgewatch"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Накидка города Bridgewatch"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Bridgewatch"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de Bridgewatch"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa de Bridgewatch"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级Bridgewatch披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 Bridgewatch 망토"
+    }],
+    "name": "CAPEITEM_FW_BRIDGEWATCH"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Caerleon Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Umhang von Caerleon"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape de Caerleon"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плащ города Caerleon"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Caerleon"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de Caerleon"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa de Caerleon"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级Caerleon披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 Caerleon 망토"
+    }],
+    "name": "CAPEITEM_FW_CAERLEON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Fort Sterling Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Umhang von Fort Sterling"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape de Fort Sterling"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Накидка города Fort Sterling"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Fort Sterling"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de Fort Sterling"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa de Fort Sterling"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级Fort Sterling披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 Fort Sterling 망토"
+    }],
+    "name": "CAPEITEM_FW_FORTSTERLING"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Lymhurst Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Umhang von Lymhurst"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape de Lymhurst"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Накидка города Lymhurst"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Lymhurst"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de Lymhurst"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa de Lymhurst"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级Lymhurst披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 Lymhurst 망토"
+    }],
+    "name": "CAPEITEM_FW_LYMHURST"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Martlock Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Umhang von Martlock"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape de Martlock"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Накидка города Martlock"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Martlock"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de Martlock"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa de Martlock"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级Martlock披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 Martlock 망토"
+    }],
+    "name": "CAPEITEM_FW_MARTLOCK"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Thetford Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Umhang von Thetford"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape de Thetford"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Накидка города Thetford"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Thetford"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de Thetford"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa de Thetford"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级Thetford披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 Thetford 망토"
+    }],
+    "name": "CAPEITEM_FW_THETFORD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Heretic Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Ketzerumhang"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape des hérétiques"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плащ Еретиков"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Heretyków"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa hereje"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa Herege"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级异教徒披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 이단자 망토"
+    }],
+    "name": "CAPEITEM_HERETIC"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Keeper Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Hüterumhang"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape des gardiens"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плащ Хранителей"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Stróżów"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de guardián"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa Protetora"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级野人披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 수호자 망토"
+    }],
+    "name": "CAPEITEM_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Morgana Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Morganas Umhang"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape de Morgana"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плащ Морганы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Morgany"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de Morgana"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa de Morgana"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级莫甘娜披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 모르가나 망토"
+    }],
+    "name": "CAPEITEM_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Undead Cape"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Untotenumhang"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Cape des morts-vivants"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Плащ Нежити"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Peleryna Nieumarłych"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capa de muerto viviente"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capa Morta-Viva"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级亡灵披风"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 언데드 망토"
+    }],
+    "name": "CAPEITEM_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cowl of Purity"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gugel der Reinheit"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon de pureté"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Колпак чистоты"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kapuza Czystości"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito de pureza"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote da Pureza"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级纯洁风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 순수의 두건"
+    }],
+    "name": "HEAD_CLOTH_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Fiend Cowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Unholdgugel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon de monstre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Дьявольский колпак"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Czarcia Kapuza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito de diablo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote Malévolo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶灵风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 피엔드 두건"
+    }],
+    "name": "HEAD_CLOTH_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Druid Cowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Druidengugel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon de druide"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Колпак друида"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kapuza Druida"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito de druida"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote de Druida"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级德鲁伊风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 드루이드 두건"
+    }],
+    "name": "HEAD_CLOTH_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cultist Cowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kultistengugel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon de culte"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Колпак культиста"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kapuza Kultysty"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito de sectario"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote Sectário"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级邪教徒风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 컬티스트 두건"
+    }],
+    "name": "HEAD_CLOTH_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Cowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Gugel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon royal"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевский колпак"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewska Kapuza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito real"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote Real"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 두건"
+    }],
+    "name": "HEAD_CLOTH_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Scholar Cowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gelehrtengugel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon d'érudit"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Колпак ученого"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kapuza Uczonego"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito de erudito"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote de Erudito"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级学士风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스콜라 두건"
+    }],
+    "name": "HEAD_CLOTH_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cleric Cowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Klerikergugel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon d'ecclésiastique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Колпак клирика"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kapuza Kleryka"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito de clérigo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote de Clérigo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级牧师风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 클레릭 두건"
+    }],
+    "name": "HEAD_CLOTH_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mage Cowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Magiergugel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuchon de mage"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Колпак чародея"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kapuza Maga"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hábito de mago"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capote de Mago"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级法师风帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 메이지 두건"
+    }],
+    "name": "HEAD_CLOTH_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hood of Tenacity"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kapuze der Beharrlichkeit"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche de tenacité"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Капюшон упорства"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kaptur Uporu"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha de tenacidad"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz da Tenacidade"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级坚韧兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 끈기의 후드"
+    }],
+    "name": "HEAD_LEATHER_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hellion Hood"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Teufelsbratenkapuze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche de tourmenteur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Адский капюшон"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kaptur Diablika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha de vándalo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz Inferial"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级喧嚣兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헬리온 후드"
+    }],
+    "name": "HEAD_LEATHER_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Stalker Hood"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Pirschjägerkapuze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche de traqueur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Капюшон лазутчика"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kaptur Prześladowcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha de acechador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz de Espreitador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级尾行兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스토커 후드"
+    }],
+    "name": "HEAD_LEATHER_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Hood"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Kapuze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche royale"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевский капюшон"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewski Kaptur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha real"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz Real"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 후드"
+    }],
+    "name": "HEAD_LEATHER_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mercenary Hood"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Söldnerkapuze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche de mercenaire"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Капюшон наемника"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kaptur Najemnika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha de mercenario"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz de Mercenário"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级雇佣兵兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 용병 후드"
+    }],
+    "name": "HEAD_LEATHER_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hunter Hood"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Jägerkapuze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche de chasseur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Капюшон охотника"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kaptur Łowcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha de cazador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz de Caçador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级猎人兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헌터 후드"
+    }],
+    "name": "HEAD_LEATHER_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Assassin Hood"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Attentäterkapuze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche d'assassin"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Капюшон убийцы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kaptur Skrytobójcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha de asesino"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz de Assassino"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级刺客兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 어쌔신 후드"
+    }],
+    "name": "HEAD_LEATHER_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Specter Hood"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gespensterkapuze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Capuche de spectre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Капюшон призрака"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kaptur Widma"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Capucha de espectro"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Capuz Espectral"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级幽灵兜帽"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스펙터 후드"
+    }],
+    "name": "HEAD_LEATHER_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Helmet of Valor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Helm des Mutes"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque de bravoure"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Шлем доблести"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Hełm Męstwa"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco de valor"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo da Bravura"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级英勇头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 용기의 헬멧"
+    }],
+    "name": "HEAD_PLATE_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Demon Helmet"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dämonenhelm"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque de démon"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Демонический шлем"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Hełm Demona"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco de demonio"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo Demônio"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶魔头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 데몬 헬멧"
+    }],
+    "name": "HEAD_PLATE_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Judicator Helmet"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Rechtssprecherhelm"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque de judicateur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Шлем вершителя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Hełm Rozjemcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco de juez"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo Judicante"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级审判头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 심판관 헬멧"
+    }],
+    "name": "HEAD_PLATE_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Helmet"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königlicher Helm"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque royale"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевский шлем"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewski Hełm"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco real"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo Real"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 헬멧"
+    }],
+    "name": "HEAD_PLATE_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Soldier Helmet"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Soldatenhelm"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque de soldat"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Шлем солдата"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Hełm Żołnierza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco de soldado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo de Soldado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级士兵头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 병사 헬멧"
+    }],
+    "name": "HEAD_PLATE_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Knight Helmet"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Ritterhelm"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque de chevalier"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Шлем рыцаря"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Hełm Rycerza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco de caballero"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo de Cavaleiro"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级骑士头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 나이트 헬멧"
+    }],
+    "name": "HEAD_PLATE_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Guardian Helmet"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Beschützerhelm"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque de gardien"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Шлем хранителя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Hełm Stróża"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco de guardián"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo de Guardião"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守卫头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 가디언 헬멧"
+    }],
+    "name": "HEAD_PLATE_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Graveguard Helmet"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Grabwächterhelm"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Casque de gardetombe"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Могильный шлем"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Hełm Straży Grobowej"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Casco de guardatumbas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Elmo de Guarda-tumbas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守墓人头盔"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이브가드 헬멧"
+    }],
+    "name": "HEAD_PLATE_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Light Crossbow"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Leichte Armbrust"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Arbalète légère"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Легкий арбалет"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Lekka Kusza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Ballesta ligera"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Besta Leve"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级轻便十字弓"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 경량 크로스보우"
+    }],
+    "name": "MAIN_1HCROSSBOW"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Arcane Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Arkanstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton ésotérique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Мистический посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Tajemny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón arcano"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Arcano"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级奥术法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 아케인 스태프"
+    }],
+    "name": "MAIN_ARCANESTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Witchwork Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Hexenzauber-Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de sorcellerie"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ведьмовской посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Guślarski Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de brujería"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Feiticeiro"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级巫师法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 위치워크 스태프"
+    }],
+    "name": "MAIN_ARCANESTAFF_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Battleaxe"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Streitaxt"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Hache de guerre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Боевой топор"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Berdysz"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hacha de guerra"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Machado de Guerra"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级战斧"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 배틀액스"
+    }],
+    "name": "MAIN_AXE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cursed Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Verfluchter Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton damné"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Проклятый посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Przeklęty Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón maldito"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Amaldiçoado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级诅咒法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 저주받은 스태프"
+    }],
+    "name": "MAIN_CURSEDSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Shadowcaller"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schattenrufer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Mande-ténèbres"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Призыватель теней"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Przyzywacz Cienia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Invocador oscuro"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Chama-sombra"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级召影法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 섀도우콜러"
+    }],
+    "name": "MAIN_CURSEDSTAFF_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Lifecurse Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Lebensfluchstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de malédiction de vie"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Гибельный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Życiowej Klątwy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de maldición de vida"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Execrado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级生咒法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 라이프커스 스태프"
+    }],
+    "name": "MAIN_CURSEDSTAFF_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Dagger"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dolch"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Dague"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Кинжал"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sztylet"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Daga"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Adaga"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级匕首"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 대거"
+    }],
+    "name": "MAIN_DAGGER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Demonfang"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dämonenzahn"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Croc-de-démon"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Клык демона"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Demoniczny Kieł"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Colmillo demoníaco"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Presa Demoníaca"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶魔之牙"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 데몬팽"
+    }],
+    "name": "MAIN_DAGGER_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Fire Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Feuerstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de feu"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Огненный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Ognisty Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón ígneo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado de Fogo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级火焰法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 파이어 스태프"
+    }],
+    "name": "MAIN_FIRESTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Wildfire Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Lauffeuerstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton braisier"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох лесного пожара"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Dzikiego Ognia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de fuego incontrolable"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Incendiário"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级野火法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 와일드파이어 스태프"
+    }],
+    "name": "MAIN_FIRESTAFF_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Frost Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Froststab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de givre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Морозный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Mroźny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de hielo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado de Gelo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级天霜法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 프로스트 스태프"
+    }],
+    "name": "MAIN_FROSTSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Chillhowl"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Frostschrei"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Hurlegivre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Леденящий вой"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Ryk Mrozu"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Grito gélido"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Uivo Frio"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级冰嚎法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 칠하울"
+    }],
+    "name": "MAIN_FROSTSTAFF_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hoarfrost Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Raureifstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de gelée blanche"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох инея"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Szronu"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de escarcha"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Enregelante"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级霜雪法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 호어프로스트 스태프"
+    }],
+    "name": "MAIN_FROSTSTAFF_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hammer"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Hammer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Marteau"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Молот"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Młot"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Martillo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Martelo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级锤子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 해머"
+    }],
+    "name": "MAIN_HAMMER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Holy Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Heiligenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton béni"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Священный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Święty Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón sagrado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Sagrado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级神圣法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 홀리 스태프"
+    }],
+    "name": "MAIN_HOLYSTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hallowfall"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Heiligsturz"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sanctificateur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Благодатный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pożoga Świętości"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Santificador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Queda Santa"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级堕神法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 할로우폴"
+    }],
+    "name": "MAIN_HOLYSTAFF_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Lifetouch Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Lebensgefühl-Stab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton de toucher de vie"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох жизни"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Dotyku Życia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de toque de vida"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Avivador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级注魂法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 라이프터치 스태프"
+    }],
+    "name": "MAIN_HOLYSTAFF_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mace"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Keule"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Masse"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Булава"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buzdygan"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Maza"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Maça"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级锤杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 메이스"
+    }],
+    "name": "MAIN_MACE"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Incubus Mace"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Incubuskeule"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Masse d'incube"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Булава инкуба"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buzdygan Inkuba"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Maza íncubo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Maça de Íncubo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级梦魇锤杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 인큐버스 메이스"
+    }],
+    "name": "MAIN_MACE_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Nature Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Naturstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton naturel"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Древесный посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Natury"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón natural"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado da Natureza"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级自然法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 네이쳐 스태프"
+    }],
+    "name": "MAIN_NATURESTAFF"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Ironroot Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Eisenwurzelstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton souchefer"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Посох железного корня"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Kostur Żelaznego Korzenia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón de raíz ferrea"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Raíz Férrea"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级铁须法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 아이언루트 스태프"
+    }],
+    "name": "MAIN_NATURESTAFF_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Druidic Staff"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Druidenstab"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bâton druidique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Друидский посох"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Druidyczny Kostur"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón druida"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cajado Druídico"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级德鲁伊法杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 드루이드 스태프"
+    }],
+    "name": "MAIN_NATURESTAFF_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Bloodletter"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Blutklinge"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Saigneur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Кровопускатель"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Upuszczacz Krwi"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sangrador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Dessangrador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级血刃"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 블러드레터"
+    }],
+    "name": "MAIN_RAPIER_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Bedrock Mace"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Felsenkeule"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Masse du soubassement"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Каменная булава"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Skalny Buzdygan"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Maza de lecho de roca"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Maça Pétrea"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级基石锤杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 베드록 메이스"
+    }],
+    "name": "MAIN_ROCKMACE_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Clarent Blade"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Clarent-Klinge"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Lame de Clarent"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевский меч"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Clarent"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Hoja Clarent"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Lâmina Aclarada"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级王者之剑"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 클라렌트 블레이드"
+    }],
+    "name": "MAIN_SCIMITAR_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Spear"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Speer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Lance"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Копье"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Włócznia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Lanza"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Lança"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级长矛"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스피어"
+    }],
+    "name": "MAIN_SPEAR"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Heron Spear"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Reiherspeer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Lance de héron"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Копье цапли"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Włócznia Czapli"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Lanza de garza"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Lança Garceira"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级鹭鸶长矛"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헤론 스피어"
+    }],
+    "name": "MAIN_SPEAR_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Daybreaker"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Tagesbringer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Diurnebris"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Копье рассвета"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Upadek Dnia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Portador del alba"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Alvorada"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级破晓尖枪"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 데이브레이커"
+    }],
+    "name": "MAIN_SPEAR_LANCE_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Broadsword"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Breitschwert"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Épée large"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Палаш"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pałasz"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Espada ancha"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Espada Larga"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级阔剑"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 브로드소드"
+    }],
+    "name": "MAIN_SWORD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Tome of Spells"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Zauberbuch"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Tome de sorts"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Книга заклинаний"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Tomisko Zaklęć"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Libro de hechizos"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Tomo de Feitiços"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级咒书"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 주문 서적"
+    }],
+    "name": "OFF_BOOK"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Celestial Censer"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Himmlisches Weihrauchfässchen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Encens céleste"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Небесное кадило"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Niebiańska Kadzielnica"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Incensario celestial"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Incensário Celeste"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级苍空香炉"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 천상의 향로"
+    }],
+    "name": "OFF_CENSER_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Muisak"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Muisak:"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Miniaturisé"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Череп-трофей"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Muisak"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Muisak"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Muisec"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级怨灵之链"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 뮤삭"
+    }],
+    "name": "OFF_DEMONSKULL_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mistcaller"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Nebelrufer"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Mandebrume"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Туманный зов"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Przywoływacz Mgły"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Invocanieblas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Brumário"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级唤雾号角"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 미스트콜러"
+    }],
+    "name": "OFF_HORN_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Leering Cane"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Grinsender Stock"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Canne grimaçante"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Зловещая трость"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Laska Spojrzenia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Bastón malicioso"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Bengala Maligna"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级邪杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 음흉한 지팡이"
+    }],
+    "name": "OFF_JESTERCANE_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cryptcandle"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gruftkerze"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bougie de la crypte"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Могильная свеча"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Świeca Grobowa"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Vela de cripta"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Lume Críptico"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级茔烛"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 크립트캔들"
+    }],
+    "name": "OFF_LAMP_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Eye of Secrets"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Geheimnisvolle Augen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Œil des secrets"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Око тайны"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Oko Sekretów"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Ojo de los secretos"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Olho dos Segredos"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级秘密之眼"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 비밀의 눈"
+    }],
+    "name": "OFF_ORB_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Shield"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schild"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bouclier"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Щит"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Tarcza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Escudo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Escudo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级盾牌"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 방패"
+    }],
+    "name": "OFF_SHIELD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Astral Aegis"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Astrale Aegis"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Égide astrale"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Эгида звезд"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Astralna Tarcza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Aegis astral"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Égide Astral"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级星域神盾"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 아스트랄 아이기스"
+    }],
+    "name": "OFF_SHIELD_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Caitiff Shield"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Niederträchtiger Schild"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bouclier de scélérat"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Щит негодяя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Tarcza Lebiegi"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Escudo de villano"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Escudo Vampírico"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级怯懦盾牌"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 케이티프 방패"
+    }],
+    "name": "OFF_SHIELD_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Facebreaker"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gesichtsbrecher"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Brise-face"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Лицелом"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Rozbijacz Twarzy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Partecaras"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Quebra-rostos"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级破面之盾"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 페이스브레이커"
+    }],
+    "name": "OFF_SPIKEDSHIELD_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Sacred Scepter"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Geheiligtes Szepter"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sceptre sacré"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Священный скипетр"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Święte Berło"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Cetro sagrado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Cetro Sagrado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级神圣权杖"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 성스러운 셉터"
+    }],
+    "name": "OFF_TALISMAN_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Torch"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Fackel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Torche"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Факел"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Pochodnia"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Antorcha"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Tocha"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级火把"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 토치"
+    }],
+    "name": "OFF_TORCH"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Taproot"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Pfahlwurzel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Racine pivot"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Корень природы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Korzeń"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Raíz primaria"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Raiz Mestra"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级萨满祭环"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 탭루트"
+    }],
+    "name": "OFF_TOTEM_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Sarcophagus"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Sarkophag"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sarcophage"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Саркофаг"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sarkofag"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sarcófago"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sarcófago"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级石棺之盾"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 석관"
+    }],
+    "name": "OFF_TOWERSHIELD_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Sandals of Purity"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Sandalen der Reinheit"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales de pureté"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сандалии чистоты"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sandały Czystości"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias de pureza"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias da Pureza"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级纯洁便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 순수의 샌들"
+    }],
+    "name": "SHOES_CLOTH_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Fiend Sandals"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Unholdsandalen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales de monstre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Дьявольские сандалии"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Czarcie Sandały"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias de diablo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias Malévolas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶灵便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 피엔드 샌들"
+    }],
+    "name": "SHOES_CLOTH_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Druid Sandals"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Druidensandalen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales de druide"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сандалии друида"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sandały Druida"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias de druida"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias de Druida"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级德鲁伊便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 드루이드 샌들"
+    }],
+    "name": "SHOES_CLOTH_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cultist Sandals"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Kultistensandalen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales de culte"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сандалии культиста"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sandały Kultysty"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias de sectario"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias Sectárias"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级邪教徒便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 컬티스트 샌들"
+    }],
+    "name": "SHOES_CLOTH_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Sandals"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Sandalen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales royales"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевские сандалии"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewskie Sandały"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias reales"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias Reais"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 샌들"
+    }],
+    "name": "SHOES_CLOTH_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Scholar Sandals"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gelehrtensandalen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales d'érudit"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сандалии ученого"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sandały Uczonego"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias de erudito"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias de Erudito"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级学士便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스콜라 샌들"
+    }],
+    "name": "SHOES_CLOTH_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Cleric Sandals"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Klerikersandalen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales d'ecclésiastique"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сандалии клирика"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sandały Kleryka"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias de clérigo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias de Clérigo"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级牧师便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 클레릭 샌들"
+    }],
+    "name": "SHOES_CLOTH_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mage Sandals"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Magiersandalen"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Sandales de mage"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сандалии чародея"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Sandały Maga"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Sandalias de mago"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sandálias de Mago"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级法师便鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 메이지 샌들"
+    }],
+    "name": "SHOES_CLOTH_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Shoes of Tenacity"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Schuhe der Beharrlichkeit"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures de tenacité"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ботинки упорства"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Uporu"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos de tenacidad"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos da Tenacidade"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级坚韧之鞋"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 끈기의 신발"
+    }],
+    "name": "SHOES_LEATHER_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hellion Shoes"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Teufelsbratenschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures de tourmenteur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Адские ботинки"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Diablika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos de vándalo"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos Inferiais"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级喧嚣鞋子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헬리온 신발"
+    }],
+    "name": "SHOES_LEATHER_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Stalker Shoes"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Pirschjägerschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures de traqueur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ботинки лазутчика"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Prześladowcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos de acechador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos de Espreitador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级尾行鞋子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스토커 신발"
+    }],
+    "name": "SHOES_LEATHER_MORGANA"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Shoes"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Schuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures royales"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевские ботинки"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewskie Trzewiki"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos reales"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos Reais"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家鞋子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 신발"
+    }],
+    "name": "SHOES_LEATHER_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Mercenary Shoes"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Söldnerschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures de mercenaire"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ботинки наемника"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Najemnika"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos de mercenario"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos de Mercenário"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级雇佣兵鞋子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 용병 신발"
+    }],
+    "name": "SHOES_LEATHER_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Hunter Shoes"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Jägerschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures de chasseur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ботинки охотника"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Łowcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos de cazador"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos de Caçador"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级猎人鞋子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 헌터 신발"
+    }],
+    "name": "SHOES_LEATHER_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Assassin Shoes"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Attentäterschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures d'assassin"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ботинки убийцы"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Skrytobójcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos de asesino"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos de Assassino"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级刺客鞋子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 어쌔신 신발"
+    }],
+    "name": "SHOES_LEATHER_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Specter Shoes"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Gespensterschuhe"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Chaussures de spectre"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Ботинки призрака"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Widma"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Zapatos de espectro"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Sapatos Espectrais"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级幽灵鞋子"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 스펙터 신발"
+    }],
+    "name": "SHOES_LEATHER_UNDEAD"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Boots of Valor"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Stiefel des Mutes"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes de bravoure"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сапоги доблести"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Męstwa"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas de valor"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas da Bravura"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级英勇之靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 용기의 부츠"
+    }],
+    "name": "SHOES_PLATE_AVALON"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Demon Boots"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Dämonenstiefel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes de démon"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Демонические сапоги"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Demona"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas de demonio"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas Demônias"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级恶魔之靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 데몬 부츠"
+    }],
+    "name": "SHOES_PLATE_HELL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Judicator Boots"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Rechtssprecherstiefel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes de judicateur"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сапоги вершителя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Rozjemcy"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas de juez"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas Judicantes"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级审判长靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 심판관 부츠"
+    }],
+    "name": "SHOES_PLATE_KEEPER"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Royal Boots"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Königliche Stiefel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes royales"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Королевские сапоги"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Królewskie Buty"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas reales"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas Reais"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级皇家长靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 왕실 부츠"
+    }],
+    "name": "SHOES_PLATE_ROYAL"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Soldier Boots"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Soldatenstiefel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes de soldat"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сапоги солдата"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Żołnierza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas de soldado"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas de Soldado"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级士兵长靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 병사 부츠"
+    }],
+    "name": "SHOES_PLATE_SET1"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Knight Boots"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Ritterstiefel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes de chevalier"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сапоги рыцаря"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Rycerza"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas de caballero"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas de Cavaleiro"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级骑士长靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 나이트 부츠"
+    }],
+    "name": "SHOES_PLATE_SET2"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Guardian Boots"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Beschützerstiefel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes de gardien"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Сапоги хранителя"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Stróża"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas de guardián"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas de Guardião"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守卫长靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 가디언 부츠"
+    }],
+    "name": "SHOES_PLATE_SET3"
+}, {
+    "translations": [{
+        "lang": "EN-US",
+        "seg": "Graveguard Boots"
+    }, {
+        "lang": "DE-DE",
+        "seg": "Grabwächterstiefel"
+    }, {
+        "lang": "FR-FR",
+        "seg": "Bottes de gardetombe"
+    }, {
+        "lang": "RU-RU",
+        "seg": "Могильные сапоги"
+    }, {
+        "lang": "PL-PL",
+        "seg": "Buty Straży Grobowej"
+    }, {
+        "lang": "ES-ES",
+        "seg": "Botas de guardatumbas"
+    }, {
+        "lang": "PT-BR",
+        "seg": "Botas de Guarda-tumbas"
+    }, {
+        "lang": "ZH-CN",
+        "seg": "娴熟级守墓人之靴"
+    }, {
+        "lang": "KO-KR",
+        "seg": "숙련자의 그레이브가드 부츠"
+    }],
+    "name": "SHOES_PLATE_UNDEAD"
+}]

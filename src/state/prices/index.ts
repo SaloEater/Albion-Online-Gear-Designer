@@ -20,11 +20,16 @@ class PricesStore {
     itemHelper: ItemHelper = new ItemHelper()
     ipHelper: IPHelper = new IPHelper()
     isFetched: boolean = false
+    selectedTabIndex: number = 0
 
     constructor(mainStore: MainStore) {
         makeAutoObservable(this)
         this.prices = new Prices(this)
         this.mainStore = mainStore
+    }
+
+    setIndex(index: number) {
+        this.selectedTabIndex = index
     }
 
     fetchPrices(): void {

@@ -1,4 +1,22 @@
 .items {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.grid_header {
+    display: grid;
+    gap: 10px;
+    grid-column-start: 2;
+    grid-column-end: 2;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+
+.language {
+    grid-column-start: 1;
+    grid-column-end: 2;
+}
+
+.loadout {
+    grid-column-start: 2;
+    grid-column-end: 7;
 }

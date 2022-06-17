@@ -1,0 +1,37 @@
+{
+    "delete": "Удалить",
+    "save": "Сохранить",
+    "loadout": {
+        "select": "Выберите набор"
+    },
+    "mastery": {
+        "clear_all_data": "Очистить сохраненные данные",
+        "item_type": "Мастерство типа",
+        "item": "Мастерство выбранного предмета",
+        "other_mastery": "Мастерство дополнительного предмета №{{number}}"
+    },
+    "gear": {
+        "two_handed_state": "Двуручное оружие",
+        "price": "Цена",
+        "suggested_ip": "Предлагаемый IP",
+        "calculate": "Посчитать",
+        "calculate_ip": "Посчитать IP",
+        "fetch_first": "Сначала обновите цены",
+        "ip_stat": "IP",
+        "price_stat": "Цена",
+        "hardcoded_ip": "IP заморожено",
+        "select_item": "Выберите предмет"
+    },
+    "prices": {
+        "select_city": "Выберите город",
+        "fetch_prices": "Обновить цены"
+    },
+    "gear_type": {
+        "helmet": "Голова",
+        "body armour": "Груль",
+        "boots": "Обувь",
+        "cape": "Плащ",
+        "main hand": "Правая рука",
+        "offhand": "Левая рука"
+    }
+}
