@@ -32,7 +32,7 @@ export default observer((input: {pricesStore: PricesStore, t: any}) => {
         }
     )
 
-    let cities = ['caerleon', 'thetford', 'fort_sterling', 'lymhurst', 'bridgewatch']
+    let cities = ['caerleon', 'thetford', 'fort_sterling', 'lymhurst', 'bridgewatch', 'martlock']
         .map((i) => {return {name: i, display: input.t('city.' + i)}})
 
     return <div>
