@@ -6,7 +6,7 @@ import { ItemTypeMastery } from "../../../../type/mastery/type";
 import CItemTypeMastery from "../../item_type_mastery"
 
 export default observer((input: {masteryStore: MasteryStore, t: any}) => {
-    let masteries = input.masteryStore.playerMastery.getActualMasteries()
+    let masteries = input.masteryStore.playerMastery.getActualMasteries().filter((i) => i.slot !== 'cape')
 
     let tabLists: ReactNode[] = []
     let tabPanels: ReactNode[] = []
