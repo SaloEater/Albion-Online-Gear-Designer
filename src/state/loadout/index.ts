@@ -52,18 +52,21 @@ export default class LoadoutStore {
 
     createNewLoadout(t: any) {
         let newName = t('loadout.default_name');
-        let regex = new RegExp(newName + " \\((\\d+)\\)", 'g')
-        let numbers = this.loadouts.map((i) => regex.exec(i.name)).filter((i) => i ? i.length >= 2 : false).map((i) => i ? parseInt(i[1]) : 0)
-        
-        if (numbers.length > 0) {            
-            let maxNumber = Math.max(...numbers)
 
-            if (maxNumber == 0) {
-                newName += ' (1)'   
-            }
+        let newLoadouts = new RegExp(newName);
+        let loadouts = this.loadouts.map((i) => newLoadouts.exec(i.name)).filter((i) => i ? i?.length > 0 : false)
+        if (loadouts.length > 0) {
+            let regex = new RegExp(newName + " \\((\\d+)\\)", 'g')
+            let numbers = this.loadouts.map((i) => regex.exec(i.name)).filter((i) => i ? i.length >= 2 : false).map((i) => i ? parseInt(i[1]) : 0)
+            
+            if (numbers.length > 0) {            
+                let maxNumber = Math.max(...numbers)
 
-            if (maxNumber > 0) {
-                newName += ' (' + (maxNumber + 1)  + ')'
+                if (maxNumber >= 0) {
+                    newName += ' (' + (maxNumber + 1)  + ')'
+                }
+            } else {
+                newName += ' (0'
             }
         }
 
