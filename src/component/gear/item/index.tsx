@@ -23,7 +23,16 @@ export default observer((input: CGearItemInput) => {
 
     let selected = list.items.find((i) => i.type == item.baseType)
     let selectedValues = selected !== undefined ? [selected] : []
-    
+    let lockedIp = item.manuallyEdited ?
+        <div>
+            {t('gear.hardcoded_ip')}:
+            <input
+                type="checkbox"
+                checked={item.manuallyEdited}
+                readOnly={true}
+            />
+        </div>
+    : <div></div>
 
     return <div className={styles.item}>
         <label>
@@ -62,14 +71,7 @@ export default observer((input: CGearItemInput) => {
                 >{t('gear.calculate_ip')}</button>
                 {t('gear.ip_stat')}: {item.totalIP}
             </div>
-            <div>
-                {t('gear.hardcoded_ip')}:
-                <input
-                    type="checkbox"
-                    checked={item.manuallyEdited}
-                    readOnly={true}
-                />
-            </div>
+            {lockedIp}
             <div>
                 {t('gear.price_stat')}: {item.getPrice()}
             </div>

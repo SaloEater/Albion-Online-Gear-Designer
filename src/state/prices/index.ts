@@ -99,7 +99,7 @@ class PricesStore {
 
             let tier = items.tiers.find((i) => i.tier == manual.tier);
             let item = tier?.items.find((i) => i.tier == manual.tier && i.enchantment == manual.enchantment)
-            let itemPrice = 0//item?.hasPrice() ? item?.price : 0 ?? 0
+            let itemPrice = item?.hasPrice() ? item?.price : 0 ?? 0
             let itemIp = item?.ip ?? 0
 
             let newCost = cost + itemPrice
