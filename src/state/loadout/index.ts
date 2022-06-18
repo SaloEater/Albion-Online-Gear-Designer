@@ -66,7 +66,7 @@ export default class LoadoutStore {
                     newName += ' (' + (maxNumber + 1)  + ')'
                 }
             } else {
-                newName += ' (0'
+                newName += ' (0)'
             }
         }
 
